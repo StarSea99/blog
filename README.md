@@ -3,8 +3,7 @@
 > https://blog.csdn.net/weixin_45606067
 
 
-
-﻿### 介绍
+### 介绍
 
 blog是基于SpringBoot 搭建的个人博客，响应式
 
@@ -27,8 +26,6 @@ blog是基于SpringBoot 搭建的个人博客，响应式
 - 网站配置：网站logo、描述、header、body等
 - 个人信息修改：昵称、密码
 
-&nbsp;
-
 ### 使用
 - 新建数据库 db_blog ，运行sql文件
 - 修改 application.properties 中的数据库连接信息
@@ -37,7 +34,7 @@ blog是基于SpringBoot 搭建的个人博客，响应式
 
 运行项目，访问地址 127.0.0.1:9501 ，后台地址 127.0.0.1:9501/admin，用户名 admin ，密码 123456
 
-&nbsp;
+
 
 ### 前台效果图
 首页：

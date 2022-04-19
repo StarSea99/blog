@@ -24,13 +24,13 @@ public class ConfigServiceImpl implements ConfigService {
 
     public static final String yourAvatar = "/admin/dist/img/chy.png";
     public static final String yourEmail = "3213973159@qq.com";
-    public static final String yourName = "chy_18883701161";
+    public static final String yourName = "starsea";
 
     public static final String footerAbout = "blog. have fun";
     public static final String footerICP = "川ICP备 xxxxxx-x号";
-    public static final String footerCopyRight = "@2019 chy_18883701161";
+    public static final String footerCopyRight = "@2019 starsea";
     public static final String footerPoweredBy = "blog";
-    public static final String footerPoweredByURL = "https://github.com/chy18883701161";
+    public static final String footerPoweredByURL = "https://github.com/StarSea99";
 
     @Override
     public int updateConfig(String configName, String configValue) {
